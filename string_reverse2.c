@@ -39,7 +39,7 @@ void main(int argc, char *argv[]){
     const char string2[] = "a";
     printf("%s\n", string_reverse2(string2));
 
-    const char string3[] = "apples!";
+    const char string3[] = "Test1";
     printf("%s", string_reverse2(string3));
 
 }
